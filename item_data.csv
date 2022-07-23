@@ -1,0 +1,12 @@
+﻿item_name,item_department,item_weight,item_cost
+cheese,dairy,250g,1.5
+milk,dairy,600g,0.8
+bacon,meat,200g,2
+mince,meat,1000g,5
+sausages,meat,400g,2
+doughnuts,bakery,500g,2
+bread,bakery,400g,1.2
+rolls,bakery,250g,1
+apple,fruit,100g,0.4
+orange,fruit,100g,0.5
+banana,fruit,100g,0.3
